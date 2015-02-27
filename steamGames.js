@@ -1,4 +1,4 @@
-// Daniel Davis , steamGames, mountains like code but instead using list of owned games on steam
+ // Daniel Davis , steamGames, mountains like code but instead using list of owned games on steam
 
 var games = [ // creates dataset of games with titles, hours played, and owner of that game
   {title = 'Total War: SHOGUN 2', hoursPlayed = 38, owner = 'SexyZombie'}, 
